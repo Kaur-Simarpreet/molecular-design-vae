@@ -233,5 +233,5 @@ MIT
 - [RDKit](https://www.rdkit.org/) — open-source cheminformatics
 - ZINC-250K — Gómez-Bombarelli et al. 2018
 - ChEMBL 34 — Mendez et al.
-
+For complete technical documentation, see [`project_documentation.md`](project_documentation.md).
 For comparison with related tools, see [`COMPARISON.md`](COMPARISON.md).
