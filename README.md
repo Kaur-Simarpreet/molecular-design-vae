@@ -11,7 +11,7 @@ A multi-stage generative framework for de novo drug discovery. Combines a SELFIE
 
 The basic version is deployed and works without any setup — just click the link:
 
-**[Try Basic Version Now →](https://kaur-simarpreet-molecular-design-vae.hf.space)**
+**[Try Basic Version Now →](https://graph-democrat-resonate.ngrok-free.dev/)**
 
 The advanced versions (moderate, large, large-gpu) work locally only — see [Advanced versions](#advanced-versions) below.
 
