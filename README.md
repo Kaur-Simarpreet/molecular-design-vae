@@ -7,16 +7,6 @@ A multi-stage generative framework for de novo drug discovery. Combines a SELFIE
 
 ---
 
-## Try it now
-
-The basic version is deployed and works without any setup — just click the link:
-
-**[Try Basic Version Now →](https://graph-democrat-resonate.ngrok-free.dev/)**
-
-The advanced versions (moderate, large, large-gpu) work locally only — see [Advanced versions](#advanced-versions) below.
-
----
-
 ## Overview
 
 The pipeline learns a continuous latent representation of drug-like chemical space from a curated seed library, then uses reward-guided optimisation to navigate this space toward molecules with desirable properties: drug-likeness (QED), synthetic accessibility (SA), predicted binding affinity, and ADMET profile. SELFIES encoding guarantees that every generated structure is chemically valid by construction.
